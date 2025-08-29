@@ -1,53 +1,3 @@
-/* Begin Font Style */
-@font-face {
-	font-family: 'Neo Sans Arabic Regular';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Neo Sans Arabic Regular'), url('https://dl.dropboxusercontent.com/s/uho12azv2t01f4d/Neo%20Sans%20Arabic%20Regular.woff') format('woff');
-}
-@font-face {
-	font-family: 'Neo Sans Arabic Regular';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Neo Sans Arabic Regular'), url('https://dl.dropboxusercontent.com/s/dtb19y2rogem8it/NeoSansArabic.woff') format('woff');
-}
-@font-face {
-	font-family: 'Neo Sans Arabic Light';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Neo Sans Arabic Light'), url('https://dl.dropboxusercontent.com/s/lvg8ucbsd8dfe39/NeoSansArabicLight.woff') format('woff');
-}
-@font-face {
-	font-family: 'Neo Sans Arabic Medium';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Neo Sans Arabic Medium'), url('https://dl.dropboxusercontent.com/s/4d1detwsbbsa0va/NeoSansArabicMedium.woff') format('woff');
-}
-@font-face {
-	font-family: 'Neo Sans Arabic Bold';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Neo Sans Arabic Bold'), url('https://dl.dropboxusercontent.com/s/0gscj3bdsqf2jbh/NeoSansArabicBold.woff') format('woff');
-}
-@font-face {
-	font-family: 'Neo Sans Arabic Black';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Neo Sans Arabic Black'), url('https://dl.dropboxusercontent.com/s/jjxqwcgr7i5zyt7/NeoSansArabicBlack.woff') format('woff');
-}
-@font-face {
-	font-family: 'Neo Sans Arabic Ultra';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Neo Sans Arabic Ultra'), url('https://dl.dropboxusercontent.com/s/j6qh2asybw5c0zv/NeoSansArabicUltra.woff') format('woff');
-}
-@font-face {
-	font-family: 'Neo Sans Medium';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Neo Sans Medium'), url('https://dl.dropboxusercontent.com/s/u2n5l83ow0gc4wp/Neo_Sans_Medium.woff') format('woff');
-}
-/* End Font Style */
 /* Start Css */
 @charset "UTF-8";
 ::-webkit-scrollbar {
@@ -76,15 +26,7 @@
 body, html {
 	background-color: rgb( 237, 240, 244 );
 }
-body {
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial, sans-serif;
-	font-size: 16px;
-	line-height: 1.5;
-	color: rgb( 53, 60, 65 );
-	height: 100%;
-	background-color: rgb( 237, 240, 244 );
-	margin: 0;
-}
+
 * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -5810,4 +5752,5 @@ div.quick-reply form#quick_reply .sceditor-dropdown.sceditor-color-picker {
     background: linear-gradient(#00000026, #00000026), linear-gradient(#BC0117, #BC0117);
     background-color: transparent;
     color: #FFF;
+
 }
