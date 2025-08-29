@@ -1563,9 +1563,6 @@ span#desc[alt="لا مساهمات جديدة"] img {
 	opacity: .5;
 	filter: grayscale(50%);
 }
-li.row dl.icon dd.dterm, li.row dl.icon dt {
-	padding: 24px;
-}
 li.row {
 	transition: all .5s ease-in-out;
 	-webkit-transition: all .5s ease-in-out;
@@ -5737,4 +5734,5 @@ div.quick-reply form#quick_reply .sceditor-dropdown.sceditor-color-picker {
     color: #FFF;
 
 }
+
 
