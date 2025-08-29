@@ -67,24 +67,7 @@ a, a:hover {
 i {
     line-height: normal;
 }
-html, body, #wrap, h1.page-title, h1.gallery-title, h1.comments-title, h2, #h1-category, h3, .h3, .table-title, .table-title h2, input, textarea, p, p.author, p.nomargin, p.path, fieldset, fieldset.jumpbox, fieldset.vf_jumpbox, fieldset.quickmod, blockquote, blockquote cite, blockquote cite cite, a.forumtitle, a.topictitle, ul.topiclist dd.dterm, ul.topiclist dt, dd.posts, dd.topics, dd.views, dd.lastpost, .block, form[action="/login"] .panel .content, .module, #picture_legend, #privmsgs-menu, .statistics, .statistics-item > strong, .footerbar-system, .footerbar-user, .copyright, [data-tooltip]:after, .forabg .header i, .forumbg .header i, .sub-header-path a, .button, .button1, .button2, input[type="submit"], .button1[class^="ion-"]:before, .button2[class^="ion-"]:before, .button[class^="ion-"]:before, input[type="submit"][class^="ion-"]:before, .topic-actions, table.table1 thead th, table.table1 td, #tabs ul li, dl.faq, dl.faq dt {
-	font-size: 16px !important;
-}
-#wrap {
-	background-color: rgb( 237, 240, 244 );
-}
-#fa_ticker_block {
-	padding-left: 20px;
-}
-.headerbar {
-	background-color: rgb( 255, 255, 255 );
-	background-image: url(https://dl.dropboxusercontent.com/s/i6b12q97e5mfuqo/84c1e40ea0e759e3f1505eb1788ddf3c_pattern.png);
-	background-position: unset;
-	background-repeat: unset;
-	background-size: unset;
-	color: rgb( 45, 55, 72 );
-	height: 250px;
-}
+
 #site-desc.ipsLayout_container {
 	/*position: unset;*/
 	top: 40%;
@@ -5754,3 +5737,4 @@ div.quick-reply form#quick_reply .sceditor-dropdown.sceditor-color-picker {
     color: #FFF;
 
 }
+
