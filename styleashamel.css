@@ -1,0 +1,14 @@
+   /* 1. Admin Rank */
+.rank.admin {
+	border-color: #e62727;
+	transition: all .5s ease-in-out;
+    	-webkit-transition: all .5s ease-in-out;
+}
+.rank.admin:hover, .rank.admin i:hover {
+	color: #e62727;
+	transition: all .5s ease-in-out;
+    	-webkit-transition: all .5s ease-in-out;
+}
+.rank.admin:after {
+	color: #e62727;
+}
